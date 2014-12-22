@@ -1,0 +1,3 @@
+[submodule "Open.Sniffer"]
+	path = Open.Sniffer
+	url = https://github.com/lontivero/Open.Sniffer.git

@@ -68,8 +68,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Open.Sniffer\Open.Sniffer\Open.Sniffer.csproj">
-      <Project>{EC2D7E72-9F4F-420F-B7D9-5D5109784A9D}</Project>
+    <ProjectReference Include="..\Open.Sniffer\Open.Sniffer.csproj">
+      <Project>{ec2d7e72-9f4f-420f-b7d9-5d5109784a9d}</Project>
       <Name>Open.Sniffer</Name>
     </ProjectReference>
   </ItemGroup>
